@@ -20,11 +20,12 @@ git clone https://github.com/venkata1258/zeotap-ast-rule-engine-weather-monitori
 3. Install Dependencies:
 If there are any external dependencies, install them by running:
 Bash:
-pip install -r requirements.txt
+pip install -r 
 4. Run the Application:
 Run the Python script to interact with the Rule Engine:
 Bash:
 python rule_engine.py
+or(directly run the python code)
 Usage:
 Example Rule Creation:
 You can create a rule like this:
