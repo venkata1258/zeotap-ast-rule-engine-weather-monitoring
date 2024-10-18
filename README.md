@@ -25,7 +25,7 @@ pip install -r
 Run the Python script to interact with the Rule Engine:
 Bash:
 python rule_engine.py
-or(directly run the python code)
+or(directly run the python code rule_engine.py )
 Usage:
 Example Rule Creation:
 You can create a rule like this:
@@ -85,6 +85,7 @@ Usage:
 2.	Run the script in your terminal and provide the city name to get the current weather.
 Bash:
 python weather_monitor.py
+or(directly run the python code weather_monitor.py) 
 Functions:
 •	get_weather_data(city): Fetches weather data for the provided city.
 •	kelvin_to_celsius(kelvin): Converts temperature from Kelvin to Celsius.
