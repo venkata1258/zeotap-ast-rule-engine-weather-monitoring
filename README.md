@@ -16,14 +16,12 @@ Installation
 To run the project locally, follow these steps:
 1.	Clone the Repository
 Bash:
-
-
-
-2. Install Dependencies:
+git clone https://github.com/venkata1258/zeotap-ast-rule-engine-weather-monitoring
+3. Install Dependencies:
 If there are any external dependencies, install them by running:
 Bash:
 pip install -r requirements.txt
-3. Run the Application:
+4. Run the Application:
 Run the Python script to interact with the Rule Engine:
 Bash:
 python rule_engine.py
